@@ -20,6 +20,8 @@
   "dependencies": {
     "ava": "^0.18.1",
     "body-parser": "^1.16.0",
+    "cors": "^2.8.1",
+    "express": "^4.15.2",
     "immutable": "^3.8.1",
     "lodash": "^4.17.4",
     "sinon": "^1.17.7",
